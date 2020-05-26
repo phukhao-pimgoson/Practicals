@@ -1,7 +1,3 @@
-"""
-CP1404/CP5632 Practical
-Cleanup inconsistent song lyrics file names
-"""
 import os
 
 
